@@ -1,0 +1,16 @@
+{
+  "name": "my-sketches",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Kamil Macinski",
+  "license": "MIT",
+  "dependencies": {
+    "ccapture.js": "^1.1.0",
+    "live-server": "^1.2.1",
+    "p5": "^1.0.0",
+    "webmidi": "^2.5.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
