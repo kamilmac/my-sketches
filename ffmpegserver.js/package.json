@@ -24,7 +24,7 @@
     "ffmpeg-static": "^3.0.0",
     "optionator": "^0.8.3",
     "tmp": "^0.1.0",
-    "ws": "^7.2.1"
+    "ws": "^7.4.6"
   },
   "devDependencies": {
     "almond": "^0.3.1",
